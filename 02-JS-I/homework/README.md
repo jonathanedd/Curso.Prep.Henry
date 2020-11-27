@@ -19,3 +19,12 @@
 
 
 ### Aca tendras acceso a las [Soluciones](https://github.com/atralice/Curso.Prep.Henry/blob/solution/02-JS-I/homework/homework.js)
+
+
+
+-Variables: Son formas de almacenar datos, Se le puede asignar un valor asi como un nombre.
+- String : String es un tipo de dato que almacena texto encerrado en comillas.
+- funciones : Son Objetos llamados en ingles Callable objects, Siempre empieza con la palabra Claves 'function', A las funciones le podemos asignar argumentos 
+              Console.log - Return 
+- Declaraciones: La :declaracion If else son palabras claves para definir si algo es verdadero o falso 
+- Valores Booleanos : Los datos buleanos determnan dos opciones, Verdadero o falso.
