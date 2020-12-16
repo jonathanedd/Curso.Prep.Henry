@@ -86,7 +86,7 @@ El "triple igual" (`===`) no debe confundirse con un solo signo igual (que indic
 1 === 1;          // true
 1 === '1';        // false
 'perro' === 'perro';  // true
-'perro' === 'Perro';  // false
+'perro' === 'perro';  // false
 ```
 
 El último operador de comparación que nos gustaría presentarle tiene dos partes.
