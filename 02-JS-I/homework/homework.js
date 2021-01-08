@@ -130,13 +130,15 @@ function elevarAlCuadrado(num) {
   // Devuelve el valor de "num" elevado al cuadrado
   // ojo: No es raiz cuadrada!
   // Tu código:
-  return Math.pow(num,2);
+  var cuadrado = num * num;
+  return cuadrado ;
 }
 
 function elevarAlCubo(num) {
   // Devuelve el valor de "num" elevado al cubo
   // Tu código:
-  return num * num * num ;
+  var cubo = num * num * num;
+  return cubo;
 }
 
 function elevar(num, exponent) {
@@ -176,7 +178,8 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-  return 'hola' + nombre + '!';
+  var saludo = 'hola ' + nombre + '!';
+  return saludo;
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
